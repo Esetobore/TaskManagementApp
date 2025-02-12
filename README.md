@@ -91,6 +91,5 @@ flutter build ios --release
 ```
 
 ## Acknowledgments
-- Dufil for the opportunity to create such an app
 - Flutter team for the amazing framework
 - Firebase for backend services
